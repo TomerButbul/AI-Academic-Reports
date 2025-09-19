@@ -1,0 +1,1 @@
+To run just open folder in VSCode and run training.py
